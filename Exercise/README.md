@@ -9,3 +9,5 @@ Each line from the input file is read into a `string`, then split into tokens us
 For each trade, the program updates the trade summary for its symbol. This includes calculating the maximum time gap, total volume, weighted average price, and maximum trade price.
 ## Sorting and Output: 
 The summaries are transferred to a vector to be sorted alphabetically by symbol. The sorted data is then written to the output file, with calculations such as the weighted average price being finalized based on total volume and price sums.
+# The amount of time:
+65 mins
